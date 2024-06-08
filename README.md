@@ -28,7 +28,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 ```
 // public variables here
     string public tokenName = "bitcoin";
-    string public tokenAbb = "bth";
+    string public tokenAbb = "BTH";
     uint public totalSupply = 0;
 
  // mapping variable here
