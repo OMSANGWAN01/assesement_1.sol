@@ -19,7 +19,7 @@ contract omsangwan_token{
 
      // public variables here
     string public tokenName = "bitcoin";
-    string public tokenAbb = "bth";
+    string public tokenAbb = "BTH";
     uint public totalSupply = 0;
 
  // mapping variable here
